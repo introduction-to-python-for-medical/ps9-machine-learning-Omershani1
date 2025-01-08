@@ -1,2 +1,2 @@
-path:"omer.joblib"
+path: "omer.joblib"
 features: ['PPE', 'DFA']
