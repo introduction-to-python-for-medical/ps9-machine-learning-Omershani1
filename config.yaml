@@ -1,2 +1,2 @@
-path: "roni_model.joblib
+path: "omer_model.joblib"
 features: ['PPE', 'DFA']
